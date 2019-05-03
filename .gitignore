@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Mnist data
+mnist_data/
+
 # Distribution / packaging
 .Python
 build/
